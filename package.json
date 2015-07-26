@@ -1,0 +1,17 @@
+{
+  "name": "odc-jscs",
+  "version": "0.0.1",
+  "description": "One Design Company Javascript coding standards defined in a JSON file for use in http://jscs.info",
+  "main": "odc-jscs.json",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedesign/odc-jscs.git"
+  },
+  "author": "One Design Company",
+  "license": "ISC",
+  "homepage": "https://github.com/onedesign/odc-jscs",
+  "private": true
+}
